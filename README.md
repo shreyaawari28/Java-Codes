@@ -1,10 +1,3 @@
-# Java Practice & Learning Repository
-
-**One-line description:**  
-A structured Java practice repository focused on strengthening fundamentals through clean, concept-driven programs.
-
----
-
 ## 📌 Overview
 This repository is a structured collection of Java programs developed to systematically strengthen understanding of Java programming.  
 It serves as a hands-on learning space where theoretical concepts are reinforced through practical implementation, following clean code principles and standard Java conventions.
