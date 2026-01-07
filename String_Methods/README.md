@@ -47,6 +47,7 @@ It prints results directly to the console for easy observation.
 ## 🖥️ Output
 
 📸 **Console output demonstrating String methods:**  
+
 ![Program Output](output.png)
 
 ---
