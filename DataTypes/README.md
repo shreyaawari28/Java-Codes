@@ -47,6 +47,7 @@ It covers:
 ## 🖥️ Output
 
 📸 **Console output showing values of different data types:**  
+
 ![Program Output](output.png)
 
 ---
