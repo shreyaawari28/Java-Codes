@@ -44,6 +44,7 @@ The program performs two independent conditional operations:
 ## 🖥️ Output
 
 📸 **Console output showing grade evaluation and day selection:**  
+
 ![Program Output](output.png)
 
 ---
