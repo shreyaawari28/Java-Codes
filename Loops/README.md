@@ -48,12 +48,15 @@ Each loop produces **separate output** to clearly show the difference in behavio
 ## 🖥️ Output
 
 📸 **Output 1 – Using for loop (1 to 10):**  
+
 ![For Loop Output](output1.png)
 
 📸 **Output 2 – Using while loop (Even numbers 0 to 10):**  
+
 ![While Loop Output](output2.png)
 
 📸 **Output 3 – Using do-while loop (0 to 10):**  
+
 ![Do-While Loop Output](output3.png)
 
 ---
