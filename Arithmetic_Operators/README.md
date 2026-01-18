@@ -28,7 +28,7 @@ It covers:
   - Modulus
 - Demonstrates **pre-increment** and **pre-decrement**
 - Demonstrates **compound assignment operators** such as `+=` and `-=`
-- Prints results after each operation to observe value changes
+- Prints results after each operation to observe value change
 
 ---
 
@@ -45,7 +45,7 @@ It covers:
 
 ## 🖥️ Output
 
-📸 **Console output showing results of arithmetic operations:**  
+📸 **Console output showing result of arithmetic operations:**  
 
 ![Program Output](output.png)
 
