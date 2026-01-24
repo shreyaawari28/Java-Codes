@@ -37,6 +37,7 @@ The program iterates through an integer array and counts how many elements are *
 ## 🖥️ Output
 
 📸 **Console output showing the count of negative numbers:**  
+
 ![Program Output](output.png)
 
 ---
