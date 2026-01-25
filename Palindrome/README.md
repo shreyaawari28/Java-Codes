@@ -43,6 +43,7 @@ If the reversed number matches the original number, it is considered a **palindr
 ## 🖥️ Output
 
 📸 **Console output showing palindrome check result:**  
+
 ![Program Output](output.png)
 
 ---
