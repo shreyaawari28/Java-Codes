@@ -13,7 +13,7 @@ It prints results directly to the console for easy observation.
 
 ---
 
-## 🧪 Code Functionality
+## 🧪 Code Functionalities
 
 - Declares multiple `String` variables
 - Prints string values and their lengths
