@@ -41,6 +41,7 @@ The recursive method keeps calling itself until it reaches the base condition.
 ## 🖥️ Output
 
 📸 **Console output showing sum of natural numbers:**  
+
 ![Program Output](output.png)
 
 ---
