@@ -41,6 +41,7 @@ The recursive method repeatedly calls itself until the base condition is met.
 ## 🖥️ Output
 
 📸 **Console output showing factorial result:**  
+
 ![Program Output](output.png)
 
 ---
