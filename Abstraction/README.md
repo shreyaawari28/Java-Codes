@@ -62,6 +62,7 @@ Each class provides its own implementation of the `pay()` method.
 ## 🖥️ Output
 
 📸 **Console output showing different payment methods:**  
+
 ![Program Output](output.png)
 
 ---
